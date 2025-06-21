@@ -1,0 +1,6 @@
+# After running Uvicorn through CLI
+GET request postman >>> http://localhost:8000/
+
+# After running Celery through CLI
+POST request postman >>> http://127.0.0.1:8000/api/start-task
+

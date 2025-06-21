@@ -1,0 +1,5 @@
+# MOVE
+eparra-v@eparra-v:~/VSCode/github_repo_elainehello/simple-task-tracker/app
+
+# RUN
+pip install -r requirements.txt
