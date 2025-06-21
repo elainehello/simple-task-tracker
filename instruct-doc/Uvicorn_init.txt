@@ -1,0 +1,5 @@
+# MOVE
+/home/eparra-v/VSCode/github_repo_elainehello/simple-task-tracker
+
+# RUN
+uvicorn app.main:app --reload
